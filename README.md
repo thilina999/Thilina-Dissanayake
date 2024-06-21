@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Thilina Dissanayake</h1>
-<h3 align="center">A passionate Java developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 On my GitHub profile, you'll find some of my personal projects and assignments that showcase my abilities. I'm always looking for opportunities to collaborate and learn from others, so don't hesitate to reach out if you'd like to connect!
 
